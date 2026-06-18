@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2026-06-12)
+## Unreleased (2026-06-18)
 
 <section class="features">
 
@@ -34,6 +34,7 @@ This release closes the following issue:
 
 <details>
 
+-   [`f4bc442`](https://github.com/stdlib-js/stdlib/commit/f4bc442f019061ce55cc1a654722a325e35fd5f0) - **test:** remove redundant filename output in test blocks [(#12951)](https://github.com/stdlib-js/stdlib/pull/12951) _(by Abdul Kaium)_
 -   [`ae684df`](https://github.com/stdlib-js/stdlib/commit/ae684dfad39a7f9dc4b2299a08942292d3d4dd09) - **feat:** add `complex/float32/base/add3` [(#9946)](https://github.com/stdlib-js/stdlib/pull/9946) _(by Sachin Pangal, stdlib-bot, Athan Reines)_
 
 </details>
@@ -46,8 +47,9 @@ This release closes the following issue:
 
 ### Contributors
 
-A total of 2 people contributed to this release. Thank you to the following contributors:
+A total of 3 people contributed to this release. Thank you to the following contributors:
 
+-   Abdul Kaium
 -   Athan Reines
 -   Sachin Pangal
 
